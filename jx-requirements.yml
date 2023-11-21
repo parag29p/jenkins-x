@@ -20,7 +20,7 @@ spec:
   - key: staging
   - key: production
   ingress:
-    domain: ""
+    domain: "ec2-52-66-255-73.ap-south-1.compute.amazonaws.com"
     externalDNS: false
     namespaceSubDomain: -jx.
     tls:
